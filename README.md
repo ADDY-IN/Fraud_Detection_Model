@@ -73,8 +73,7 @@ Response:
 ```
 
 ## 📬 Contact
-👨‍💻 Developed by **rchqai**  
-📧 Email: rchq.in@icloud.com  
-🔗 GitHub: [rchqai](https://github.com/rchqai)  
+👨‍💻 Developed by **Aditya**  
+
 
 🌟 **Star this repo if you found it useful!** ⭐
